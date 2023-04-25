@@ -1655,6 +1655,11 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
+.footer-contact {
+  color: white;
+}
+
 .contact {
   padding-bottom: 30px;
 }
@@ -2387,6 +2392,7 @@ section {
 #footer .credits a {
   color: #a2cce3;
 }
+
 
 line1 {
   display: none;
