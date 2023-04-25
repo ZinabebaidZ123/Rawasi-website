@@ -1531,7 +1531,7 @@ section {
 .team .member-experience h4{
   color:#1e4356;
 }
-
+/* services pages style----------------------- */
 /* services---------------------------------------- */
 .service  p{
   line-height: 1.9;
@@ -1607,7 +1607,7 @@ section {
 .business-banner{
   background-image: url('https://thumbs.dreamstime.com/b/team-meeting-new-business-plan-discussing-digital-paperwork-table-intentional-sun-glare-111830510.jpg') ;
 
-  height: 40vh;
+  height: 50vh;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -2386,4 +2386,15 @@ section {
 
 #footer .credits a {
   color: #a2cce3;
+}
+
+line1 {
+  display: none;
+
+}
+ul li {
+  margin-bottom: 10px;
+}
+.list-container {
+  display: inline-block;
 }
